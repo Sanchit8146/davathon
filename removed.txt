@@ -1,0 +1,572 @@
+Dear Sir,
+
+I’m reaching out because I’m the organizer of a student run programming competition at DAV INSTITUTE OF ENGINEERING AND TECHNOLOGY called DAV-A-THON (http://adavitiya.in/davathon/). On the weekend of 19th March 2020, more than 100 of the most talented student developers are going to gather together to build things like mobile apps, websites, and hardware devices to show off their skills.
+
+I’d love the opportunity to tell you more about the event and see how we can work together to get coderbyte out in front of some of the top developers in the world.
+
+Thanks!
+
+Sanchit Gupta Organizer, DAV-A-THON, 8146090777
+
+
+
+
+
+
+
+
+<div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+<!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author5.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author2.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author6.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author7.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>HTML, CSS and Bootstrap Introduction</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author8.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author9.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class=tabs_item>
+                                <ul class=accordion>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class=author><img src="assets/img/author1.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Steven Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>Digital Marketing Theory</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>Steven Smith</span>
+                                                        CEO of EnvyTheme</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author5.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author2.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author6.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author7.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>HTML, CSS and Bootstrap Introduction</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class=tabs_item>
+                                <ul class=accordion>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class=author><img src="assets/img/author1.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Steven Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>Digital Marketing Theory</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>Steven Smith</span>
+                                                        CEO of EnvyTheme</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author5.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author2.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author6.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author7.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>HTML, CSS and Bootstrap Introduction</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author8.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author9.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class=tabs_item>
+                                <ul class=accordion>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class=author><img src="assets/img/author1.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Steven Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>Digital Marketing Theory</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>Steven Smith</span>
+                                                        CEO of EnvyTheme</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author5.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author2.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author6.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author7.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image></div>
+                                            <div class=schedule-info>
+                                                <h3>HTML, CSS and Bootstrap Introduction</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                    <li class=accordion-item><a class=accordion-title href="javascript:void(0)">
+                                            <div class="author author-multi"><img src="assets/img/author8.jpg"
+                                                    data-toggle=tooltip data-placement=top title="Steven Lucy"
+                                                    alt=image><img src="assets/img/author9.jpg" data-toggle=tooltip
+                                                    data-placement=top title="Jonaton Smith" alt=image><img
+                                                    src="assets/img/author3.jpg" data-toggle=tooltip data-placement=top
+                                                    title="John Smith" alt=image><img src="assets/img/author4.jpg"
+                                                    data-toggle=tooltip data-placement=top title="John Doe" alt=image>
+                                            </div>
+                                            <div class=schedule-info>
+                                                <h3>Digital World Event Information</h3>
+                                                <ul>
+                                                    <li><i class=icofont-user-suited></i> By <span>EnvyTheme Team</span>
+                                                        of USA Inc</li>
+                                                    <li><i class=icofont-wall-clock></i> 13:00AM - 20:00PM</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                        <div class=accordion-content>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                                                industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                                since the 1500s, when an unknown printer took a galley of type and
+                                                scrambled it to make a type specimen book. Lorem Ipsum is simply dummy
+                                                text of the printing and typesetting industry. Lorem Ipsum has been the
+                                                industry's standard dummy text ever since the 1500s, when an unknown
+                                                printer took a galley of type and scrambled it to make a type specimen
+                                                book.</p>
+                                            <div class="row h-100 align-items-center">
+                                                <div class="col-lg-6 col-md-7">
+                                                    <div class=location><b>Location:</b> Hall 1, Building C , King
+                                                        Street , <span>USA</span></div>
+                                                </div>-->
+                                                <!--<div class="col-lg-6 col-md-5 text-right"><a href="#"
+                                                        class="btn btn-primary">View Details</a></div>-->
+                                                <!--</div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div class=row>
+                <div class=col-lg-12>
+                    <div class="partner-title platinum-sponsor">
+                        <h3 class=lax data-lax-preset=driftRight style="margin-top:7vw;transform:none;">Platinum
+                            Sponsors
+                        </h3>
+                    </div>
+                </div>
+                <div class="platinum-partner-slides owl-carousel owl-theme">
+                    <div class="col-lg-12 col-md-12">
+                        <div class=partner-item><a href="#"><img src="assets/img/platinum-partner1.png" alt=image><img
+                                    src="assets/img/platinum-partner1.png" alt=image></a></div>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class=partner-item><a href="#"><img src="assets/img/platinum-partner2.png" alt=image><img
+                                    src="assets/img/platinum-partner2.png" alt=image></a></div>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class=partner-item><a href="#"><img src="assets/img/platinum-partner3.png" alt=image><img
+                                    src="assets/img/platinum-partner3.png" alt=image></a></div>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class=partner-item><a href="#"><img src="assets/img/platinum-partner4.png" alt=image><img
+                                    src="assets/img/platinum-partner4.png" alt=image></a></div>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class=partner-item><a href="#"><img src="assets/img/platinum-partner5.png" alt=image><img
+                                    src="assets/img/platinum-partner5.png" alt=image></a></div>
+                    </div>
+                </div>
+                <div class=col-lg-12>
+                    <div class=border></div>
+                </div>
+            </div>-->
