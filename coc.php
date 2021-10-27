@@ -25,7 +25,7 @@
                             <li class="nav-item"><a href="index" class="nav-link">Home</a>
                             </li>
                             <li class=nav-item><a href="http://adavitiya.in/" target="_blank" class=nav-link>Adavitiya
-                                    2k20</a></li>
+                                    2k21</a></li>
                         </ul>
                     </div>
                 </nav>

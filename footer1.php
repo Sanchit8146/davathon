@@ -7,7 +7,7 @@
                         <!--19<sup>th</sup> March, 2020--></span>
                     <p><i class=icofont-google-map></i> Room-12, DAVIET, KABIR NAGAR, Jalandhar</p><a href="#"
                         class=contact-authority><i class=icofont-phone></i> +91-81460-90777</a>
-                    <a href="#" class=contact-authority><i class=icofont-phone></i> +91-70096-50472</a>
+                    <!--<a href="#" class=contact-authority><i class=icofont-phone></i> +91-70096-50472</a>-->
                 </div>
             </div>
             <div class="col-lg-6 col-md-6">
